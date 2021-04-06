@@ -1,10 +1,11 @@
 {
   "name": "pay_and_go",
   "version": "1.0.0",
-  "description": "",
+  "description": "EL PEPE",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +14,14 @@
     "mysql": "^2.18.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloBallen24-02/ms-vehicles-submodule.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/CamiloBallen24-02/ms-vehicles-submodule/issues"
+  },
+  "homepage": "https://github.com/CamiloBallen24-02/ms-vehicles-submodule#readme"
 }
